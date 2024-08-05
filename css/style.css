@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-size: 35px;
+	font-family: "KaushanScript Regular";
+}
+
+
+
+
+#hero{
+	text-align: center;
+	background-image: url("../img/como-almacenar-instrumentos-musicales-adecuadamente.webp");
+	padding-top: 300px;
+	padding-bottom: 300px;
+	background-size: cover;
+    background-position: center;
+	box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
+	background-color: rgba(0,0,0,0.25);
+	background-blend-mode: multiply;
+	color: aliceblue;
+}
+
+
+#infodump{
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+#shop{
+	box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
+	
+}
+
+#instrumentos{
+	text-align: center;
+	padding-top: 180px;
+	padding-bottom: 180px;
+}
+
+#digital{
+	background-color: #262524;
+	padding-top: 180px;
+	padding-left: 350px;
+	color: aliceblue;
+}
+
+
+#forms{
+	text-align: center;
+	background-image: url("../img/instrument-wood-background-1386136.jpg");
+	padding-top: 300px;
+	padding-bottom: 300px;
+	background-size: cover;
+    background-position: center;
+	box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
+	background-color: rgba(0,0,0,0.25);
+	background-blend-mode: multiply;
+	color: aliceblue;
+	padding-right: 80px;
+}
+
+
+footer{
+	background-color: #27221F;
+	text-align: center;
+	padding-top: 80px;
+	color: #CCC;
+}
